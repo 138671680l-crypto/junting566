@@ -1,0 +1,6 @@
+{
+  "name": "Cute Pastel Todo List",
+  "description": "A warm and cute pink-yellow themed todo list with a weekly completion heatmap, customizable card colors, drag-and-drop reordering, and shareable data URLs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
